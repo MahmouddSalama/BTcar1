@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474035398986",
+    "project_id": "btcar-49025",
+    "storage_bucket": "btcar-49025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474035398986:android:d7acfef96c49119be0f9b3",
+        "android_client_info": {
+          "package_name": "com.example.btcar_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1V6AW09pIOfLuxBC4-klrt8HGO26rUzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
